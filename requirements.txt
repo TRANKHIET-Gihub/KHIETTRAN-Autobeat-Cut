@@ -1,0 +1,6 @@
+PySide6>=6.7,<7
+opencv-python>=4.9
+librosa>=0.10
+numpy>=1.26,<3
+PyInstaller>=6.10
+pytest>=8.0
